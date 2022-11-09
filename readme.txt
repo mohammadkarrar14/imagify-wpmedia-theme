@@ -1,5 +1,5 @@
 === Imagify WPMedia Theme ===
-Contributors: wordpressdotor
+Contributors: mohammadkarrar
 Requires at least: 5.9
 Tested up to: 6.1
 Requires PHP: 5.6
